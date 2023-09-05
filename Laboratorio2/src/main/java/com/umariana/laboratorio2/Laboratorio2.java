@@ -18,7 +18,7 @@ import java.util.Scanner;
  */
 public class Laboratorio2 {
 
-     private static Scanner lector = new Scanner(System.in);
+    private static Scanner lector = new Scanner(System.in);
     private static ArrayList<Alumno> misAlumnos = new ArrayList<>();
 
     public static void main(String[] args) throws FileNotFoundException {
